@@ -66,20 +66,20 @@ export const projectsData = [
     liveLink: "https://gamehub-peach.vercel.app/",
   },
   {
-    title: "Task Binder",
-    description:
-      "Developed a Project Management System allowing users to create projects, assign team members, and engage in live chat. Team members can filter projects by categories and view online users. ",
-    tags: ["React", "Firebase"],
-    imageUrl: taskbinder,
-    liveLink: "https://taskbinder.netlify.app/",
-  },
-  {
     title: "E Commerce Store",
     description:
       "A user-friendly e-commerce platform facilitating order placement, payment, and order tracking. It includes an admin interface for managing orders, products, and users.",
     tags: ["React", "Redux", "ExpressJS", "MongoDB"],
     imageUrl: everythingstore,
     liveLink: "https://theeverythingstoreapp.herokuapp.com/",
+  },
+  {
+    title: "Task Binder",
+    description:
+      "Developed a Project Management System allowing users to create projects, assign team members, and engage in live chat. Team members can filter projects by categories and view online users. ",
+    tags: ["React", "Firebase"],
+    imageUrl: taskbinder,
+    liveLink: "https://taskbinder.netlify.app/",
   },
   {
     title: "Genius",
